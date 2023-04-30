@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markainejr
-- 👀 I’m interested in becoming a software engineer...
+- 👀 I’m interested in becoming a software engineer/FrontEndDeveloper
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my email ainemarkjr@gmail.com
