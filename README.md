@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 i am currently interested in becoming a Full stack Engineer<br>I am currently building applications with python<br>
 
 
