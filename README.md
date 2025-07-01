@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ainemani Mark
+# 👋 Hi, I'm AINEMANI MARK
 
 🎓 Recent IT Graduate | 💻 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast
 
