@@ -1,5 +1,19 @@
+# 👋 Hi, I'm Ainemani Mark
 
-i am currently interested in becoming a Full stack Engineer<br>I am currently building applications with python<br>
+🎓 Recent IT Graduate | 💻 Aspiring Software Engineer | 🔐 Cybersecurity Enthusiast
+
+I'm passionate about building scalable web applications, designing secure networks, and solving real-world problems through code. Currently diving deeper into full-stack development, cloud technologies, and system automation.
+
+---
+
+### 🛠️ Skills & Tools
+
+**Languages:** Python, JavaScript, HTML/CSS  
+**Frameworks & Libraries:** Flask, Django, React.js, Bootstrap, Express.js, FastAPI  
+**Databases:** MySQL, PostgreSQL, MariaDB  
+**Tools & Platforms:** Git, Docker, Linux, Wireshark, Cisco Packet Tracer  
+**Concepts:** REST APIs, CRUD, Networking, Cybersecurity, Agile
+
 
 
 
