@@ -8,7 +8,7 @@ I'm passionate about building scalable web applications, designing secure networ
 
 ### 🛠️ Skills & Tools
 
-**Languages:** Python, JavaScript, HTML/CSS  
+**Languages:** C, Python, JavaScript, HTML/CSS  
 **Frameworks & Libraries:** Flask, Django, React.js, Bootstrap, Express.js, FastAPI  
 **Databases:** MySQL, PostgreSQL, MariaDB  
 **Tools & Platforms:** Git, Docker, Linux, Wireshark, Cisco Packet Tracer  
